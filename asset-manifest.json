@@ -1,13 +1,17 @@
 {
   "files": {
-    "main.css": "/goit-react-hw-01-components/static/css/main.587a78a5.css",
+    "main.css": "/goit-react-hw-01-components/static/css/main.996e6853.css",
     "main.js": "/goit-react-hw-01-components/static/js/main.d6bfcb20.js",
+    "static/media/open-sans-v35-latin-500.woff2": "/goit-react-hw-01-components/static/media/open-sans-v35-latin-500.75cd870c47267d0fad74.woff2",
+    "static/media/open-sans-v35-latin-regular.woff2": "/goit-react-hw-01-components/static/media/open-sans-v35-latin-regular.2e11868c8988e285301c.woff2",
+    "static/media/open-sans-v35-latin-600.woff2": "/goit-react-hw-01-components/static/media/open-sans-v35-latin-600.18b322a60320289ab2b8.woff2",
+    "static/media/open-sans-v35-latin-700.woff2": "/goit-react-hw-01-components/static/media/open-sans-v35-latin-700.50c16efb37ef13080c94.woff2",
     "index.html": "/goit-react-hw-01-components/index.html",
-    "main.587a78a5.css.map": "/goit-react-hw-01-components/static/css/main.587a78a5.css.map",
+    "main.996e6853.css.map": "/goit-react-hw-01-components/static/css/main.996e6853.css.map",
     "main.d6bfcb20.js.map": "/goit-react-hw-01-components/static/js/main.d6bfcb20.js.map"
   },
   "entrypoints": [
-    "static/css/main.587a78a5.css",
+    "static/css/main.996e6853.css",
     "static/js/main.d6bfcb20.js"
   ]
 }
