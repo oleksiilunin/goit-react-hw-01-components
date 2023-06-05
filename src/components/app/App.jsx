@@ -14,7 +14,7 @@ const App = () => {
     <div className={css.wrapper}>
       <Profile {...userData} />
       <Statistics title="Upload stats" stats={statsData} />
-      <FriendList {...friendsData} />
+      <FriendList friends={friendsData} />
     </div>
   )
 };
