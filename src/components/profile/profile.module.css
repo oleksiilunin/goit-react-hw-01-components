@@ -18,7 +18,8 @@
 	gap: 10px;
 	border-top-left-radius: 7px;
 	border-top-right-radius: 7px;
-	padding: 40px 60px;
+	padding-top: 40px;
+	padding-bottom: 40px;
 
 	background-color: #F8F8F8;
 }
@@ -27,7 +28,6 @@
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	padding: 50;
 	width: 150px;
 	height: 150px;
 	border-radius: 50%;
