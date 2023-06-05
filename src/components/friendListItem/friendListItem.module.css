@@ -1,0 +1,43 @@
+
+.item {
+	display: flex;
+	align-items: center;
+	justify-content: flex-start;
+	gap: 20px;
+	padding: 10px 20px;
+	width: 320px;
+	/* width: 100%; */
+	border-radius: 7px;
+	box-shadow: 0 2px 4px rgba(0, 0, 0, .1);
+
+	background-color: #F8F8F8;
+}
+
+.avatar {
+	width: 72px;
+	height: 100%;
+	background-color: #edeeee;
+	border-radius: 5px;
+}
+
+.name {
+	color: #666666;
+	font-size: 22px;
+	font-weight: 500;
+}
+
+.status {
+	display: block;
+	padding: 10px;
+	border: 1px solid rgba(0, 0, 0, .1);;
+	border-radius: 50%;
+	box-shadow: 0 2px 4px rgba(0, 0, 0, .1);
+}
+
+.online {
+	background-color: greenyellow;
+}
+
+.offline {
+	background-color: tomato;
+}
