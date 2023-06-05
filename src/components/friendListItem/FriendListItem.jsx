@@ -10,6 +10,4 @@ const FriendListItem = ({ avatar, name, isOnline, id }) => {
 	)
 }
 
-//!TODO: Добавить инлайн стили для онлайн или офлайн статусов
-
 export default FriendListItem;
