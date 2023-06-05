@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/goit-react-hw-01-components/static/css/main.e4a28370.css",
-    "main.js": "/goit-react-hw-01-components/static/js/main.e6517e9c.js",
+    "main.js": "/goit-react-hw-01-components/static/js/main.902e59f2.js",
     "static/media/open-sans-v35-latin-500.woff2": "/goit-react-hw-01-components/static/media/open-sans-v35-latin-500.75cd870c47267d0fad74.woff2",
     "static/media/open-sans-v35-latin-regular.woff2": "/goit-react-hw-01-components/static/media/open-sans-v35-latin-regular.2e11868c8988e285301c.woff2",
     "static/media/open-sans-v35-latin-600.woff2": "/goit-react-hw-01-components/static/media/open-sans-v35-latin-600.18b322a60320289ab2b8.woff2",
     "static/media/open-sans-v35-latin-700.woff2": "/goit-react-hw-01-components/static/media/open-sans-v35-latin-700.50c16efb37ef13080c94.woff2",
     "index.html": "/goit-react-hw-01-components/index.html",
     "main.e4a28370.css.map": "/goit-react-hw-01-components/static/css/main.e4a28370.css.map",
-    "main.e6517e9c.js.map": "/goit-react-hw-01-components/static/js/main.e6517e9c.js.map"
+    "main.902e59f2.js.map": "/goit-react-hw-01-components/static/js/main.902e59f2.js.map"
   },
   "entrypoints": [
     "static/css/main.e4a28370.css",
-    "static/js/main.e6517e9c.js"
+    "static/js/main.902e59f2.js"
   ]
 }
