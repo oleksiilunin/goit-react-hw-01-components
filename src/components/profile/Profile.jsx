@@ -36,8 +36,6 @@ const Profile = ({ username, tag, location, avatar, stats: { followers, views, l
 
 };
 
-export default Profile;
-
 
 Profile.propTypes = {
 	username: PropTypes.string.isRequired,
@@ -50,3 +48,5 @@ Profile.propTypes = {
 		likes: PropTypes.number.isRequired
 	})
 };
+
+export default Profile;
