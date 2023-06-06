@@ -1,3 +1,5 @@
+import PropTypes from 'prop-types';
+
 import css from './transactions.module.css';
 
 const Transactions = ({ transactions }) => {
@@ -25,5 +27,16 @@ const Transactions = ({ transactions }) => {
     </table>
   );
 };
+
+Transactions.propTypes = {
+  transactions: PropTypes.arrayOf(PropTypes.exact({
+    id: PropTypes.string.isRequired,
+    type: PropTypes.string.isRequired,
+    amount: PropTypes.string.isRequired,
+    currency: PropTypes.string.isRequired
+  }
+  ))
+
+}
 
 export default Transactions;
